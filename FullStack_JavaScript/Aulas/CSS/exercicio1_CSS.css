@@ -7,6 +7,9 @@ color: white;
 
 body {
     background-image:url(C360_2012-11-19-17-59-02.jpg);
-    width: 1200px;
-    height: 600px;
+    background-size: cover;
+}
+
+main {
+    background-color: rgb(196, 218, 6);
 }
